@@ -1,0 +1,57 @@
+# מול-ים — Generative Engine Optimization Map
+
+> A ניהול בניין ועד בית business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-0e0744b7.zappy5.app
+גלו את פלטפורמה הניהול הדיגיטלית המתקדמת של מול-ים לועד הבית שלכם. פרוטוקולים, הצבעות ופעילויות קהילתיות במקום אחד.
+
+### שירותים
+https://-0e0744b7.zappy5.app/services
+גלו את מגוון השירותים הדיגיטליים של מול-ים: פרוטוקולים אונליין, הצבעות מקוונות, ניהול אירועים קהילתיים ועוד. פתרונות מתקדמים לדיירים.
+
+### אודות
+https://-0e0744b7.zappy5.app/about
+למדו על הפלטפורמה הדיגיטלית של מול-ים, הערכים שלנו והחזון לניהול בניין מודרני ומעורב. אנחנו מאמינים בשקיפות, קהילתיות וטכנולוגיה.
+
+### צור קשר
+https://-0e0744b7.zappy5.app/contact
+יש לכם שאלות על הפלטפורמה הדיגיטלית של מול-ים? צרו קשר עם הצוות המנהל שלנו ונשמח לעזור. מענה מהיר לכל פניה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-0e0744b7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-0e0744b7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-0e0744b7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מול-ים
+מול-ים is a business in the ניהול בניין ועד בית industry.
+
+## Target Audience
+דיירי המגדל, תושבי הבניין
+
+## Industry
+ניהול בניין ועד בית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-0e0744b7.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-0e0744b7.zappy5.app/robots.txt
